@@ -1,0 +1,22 @@
+{
+  "name": "steemfollower2",
+  "version": "2.0.0",
+  "description": "Steemfollower v2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahdiyari/steemfollower2.git"
+  },
+  "author": "https://steemit.com/@mahdiyari",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mahdiyari/steemfollower2/issues"
+  },
+  "homepage": "https://github.com/mahdiyari/steemfollower2#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
